@@ -12,7 +12,7 @@
 ### Social Media ✔
   |✔| linkedin &nbsp;
   |✔| dribble <br />
-  |✔| discord  &nbsp;
+  |✔| discord  &nbsp;&nbsp;
   |✔| instagram <br /> 
   
   
