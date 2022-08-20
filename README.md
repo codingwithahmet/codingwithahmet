@@ -11,7 +11,7 @@
 ### Social Media ✔
   <b style="background-color:red">
 ```diff
--  |✔|Linkedin <br />
+-  |✔|https://placehold.it/150/ffffff/ff0000?text=linkedin <br />
 +  |✔|Dribble  <br />
 -  |✔|Discord  <br />
 +  |✔|Instagram<br /> 
