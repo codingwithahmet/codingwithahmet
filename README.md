@@ -5,13 +5,12 @@
 - 🌱 I’m currently learning Front-End Devoloper
 - 📫 How to reach me: ahmetwithweb@gmail.com
 
-
+###### Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithahmet&theme=tokyonight)
 - 😊 Please look my repositories
- ![#FF0000](https://placehold.it/15/FF0000/000000?text=+)
-### Social Media ✔
-```diff
-- Linkedin
-+ This is a green colored line
-@@ This is a purple colored line @@
-```
 
+### Social Media ✔
+
+✔ Linkedin
+✔ Discord
+✔ Instagram
