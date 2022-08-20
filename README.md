@@ -10,8 +10,9 @@
 
 ### Social Media ✔
   <b>
-- ![#f03c15](|✔|Linkedin) <br />
-  |✔|Dribble  <br />
-  |✔|Discord  <br />
- |✔|Instagram<br /> 
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
   </b>
