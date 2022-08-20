@@ -10,7 +10,7 @@
 - 😊 Please look my repositories
 
 ### Social Media ✔
-  |✔| linkedin
-  |✔| dribble
+  |✔| linkedin--
+  |✔| dribble--
   |✔| linkedin
   
