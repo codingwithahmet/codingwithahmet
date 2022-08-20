@@ -11,7 +11,8 @@
 ### Social Media ✔
   <b style="background-color:red">
 ```diff
--  |✔|https://via.placeholder.com/150/0000FF/808080?Text=Linkedin <br />
+  
+-  |✔|![This is an image](https://via.placeholder.com/150/0000FF/808080?Text=Linkedin) <br />
 +  |✔|Dribble  <br />
 -  |✔|Discord  <br />
 +  |✔|Instagram<br /> 
