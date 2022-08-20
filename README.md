@@ -12,6 +12,7 @@
 ```diff
 - This is a red colored line
 + This is a green colored line
+/ This is a 
 @@ This is a purple colored line @@
 ```
 
