@@ -10,8 +10,8 @@
 
 ### Social Media ✔
   <b style="background-color:red">
-  |✔|Linkedin <br />
-  |✔|Dribble  <br />
-  |✔|Discord  <br />
-  |✔|Instagram<br /> 
+-  |✔|Linkedin <br />
++  |✔|Dribble  <br />
+-  |✔|Discord  <br />
++  |✔|Instagram<br /> 
   </b>
