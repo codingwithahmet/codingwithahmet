@@ -7,12 +7,11 @@
 
 
 - 😊 Please look my repositories
-
+ ![#FF0000](https://placehold.it/15/FF0000/000000?text=+)
 ### Social Media ✔
 ```diff
-- This is a red colored line
+- Linkedin
 + This is a green colored line
-/ This is a 
 @@ This is a purple colored line @@
 ```
 
