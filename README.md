@@ -9,9 +9,9 @@
 - 😊 Please look my repositories
 
 ### Social Media ✔
-  |✔|  Linkedin  |✔|<br />
-  |✔|  Dribble   |✔|<br />
-  |✔|  Discord   |✔|<br />
-  |✔|  Instagram |✔| <br /> 
+  |✔|**Linkedin**|✔|<br />
+  |✔|**Dribble***|✔|<br />
+  |✔|  Discord***|✔|<br />
+  |✔|**Instagram*|✔|<br /> 
   
   
