@@ -13,6 +13,6 @@
   |✔| linkedin &nbsp;
   |✔| dribble <br />
   |✔| discord  &nbsp;
-   |✔| instagram <br /> 
+     |✔| instagram <br /> 
   
   
