@@ -10,8 +10,8 @@
 
 ### Social Media ✔
   <b>
--  - ![#f03c15](|✔|Linkedin) <br />
-+  |✔|Dribble  <br />
--  |✔|Discord  <br />
-+  |✔|Instagram<br /> 
+- ![#f03c15](|✔|Linkedin) <br />
+  |✔|Dribble  <br />
+  |✔|Discord  <br />
+ |✔|Instagram<br /> 
   </b>
