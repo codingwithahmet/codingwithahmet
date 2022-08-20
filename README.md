@@ -6,8 +6,9 @@
 - 📫 How to reach me: ahmetwithweb@gmail.com
 
 ###### Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithahmet&theme=tokyonight) <br />
+###### Github Stats
 ![codingwithahmet GitHub stats](https://github-readme-stats.vercel.app/api?username=codingwithahmet&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithahmet&theme=tokyonight)
 - 😊 Please look my repositories
 
 ### Social Media ✔
