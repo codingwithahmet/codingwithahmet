@@ -9,7 +9,7 @@
 - 😊 Please look my repositories
 
 ### Social Media ✔
-  <b>
+  <b style="background-color:red">
   |✔|Linkedin <br />
   |✔|Dribble  <br />
   |✔|Discord  <br />
